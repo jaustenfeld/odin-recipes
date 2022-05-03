@@ -1,0 +1,20 @@
+.heading{
+    text-align: center;
+}
+
+img{
+    height: 200px;
+    width: auto;
+}
+
+.Ingredients{
+    background-color: #AFEEEE;
+}
+
+.Sauce{
+    background-color: #F0E68C;
+}
+
+.Steps{
+    background-color: #98FB98;
+}
